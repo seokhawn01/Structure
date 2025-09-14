@@ -1,5 +1,5 @@
 package linkedlist;
-////conflict 실험(eclipse실험) 찐막  
+////conflict 실험(eclipse실험) 찐막
 
 public class ListNode {
     int coef;
